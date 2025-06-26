@@ -1,0 +1,10 @@
+Dataset: Real-time Stock Price Data using Yahoo Finance
+No need to download anything manually.
+
+We use Python’s `yfinance` package to directly fetch historical stock prices.
+
+Example stock symbol used: AAPL (Apple Inc.)
+
+To use another stock, just change the ticker in the code, e.g.:
+    yfinance.download("TSLA")  → for Tesla
+
