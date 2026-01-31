@@ -63,4 +63,4 @@ stock-price-prediction/
 - Line graph: actual vs predicted stock prices
 - R² score for model evaluation
 
-✍️ Created by Tushar for Anushka’s Machine Learning GitHub Portfolio 💹
+
